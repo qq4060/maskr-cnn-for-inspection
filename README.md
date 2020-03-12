@@ -1,6 +1,8 @@
 # maskr-cnn-for-inspection
 a novel solder joint recognition method based on the state-of-the-art Mask R-CNN deep learning method
-《Solder Joint Recognition Using Mask R-CNN Method》https://ieeexplore.ieee.org/abstract/document/8894555/
+
+here is this paper H. Wu, W. Gao and X. Xu, "Solder Joint Recognition Using Mask R-CNN Method," in IEEE Transactions on Components, Packaging and Manufacturing Technology, vol. 10, no. 3, pp. 525-530, March 2020.
+https://ieeexplore.ieee.org/abstract/document/8894555/
 
 Main references and tools
 Open source project based on Mask RCNN: https://github.com/matterport/Mask_RCNN
