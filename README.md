@@ -12,9 +12,12 @@ Training tools: ubuntu16.04,GPU GTX1080TI,  Python 3.6,TensorFlow-gpu 1.9,Keras 
 You can refer to the use of labelme: https://github.com/wkentaro/labelme
 
 
-1.download and Prepare training data set
+1.download and Prepare training data set and test dataset
+
 2. run solder_train_test
+
 3. run solder_test_model
+
 
 
 Here are the four folders of my training dataset. Come here one by one ~
