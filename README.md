@@ -13,14 +13,14 @@ You can refer to the use of labelme: https://github.com/wkentaro/labelme
 
 
 1.download and Prepare training data set and test dataset
-![image](https://github.com/qq4060/maskr-cnn-for-inspection/blob/master/4.bmp)
+![image](https://github.com/qq4060/maskr-cnn-for-inspection/blob/master/17.bmp)
 
 
 2. run solder_train_test
 
 
 3. run solder_test_model
-![image](https://github.com/qq4060/maskr-cnn-for-inspection/blob/master/fault4.png)
+![image](https://github.com/qq4060/maskr-cnn-for-inspection/blob/master/Figure_17.png)
 
 
 
